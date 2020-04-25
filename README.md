@@ -13,4 +13,4 @@ example: If you want to start the search if the user has entered at least 3 char
 the searchResult or some predetermined data in a Component like Data Table   
 
 Here is short video of Search Bar working:
-![](demo/demo.gif)
+![test](demo/demo.gif)
